@@ -1,0 +1,6 @@
+*.txt
+*.log
+
+compiled_contracts
+
+frontend/node_modules
